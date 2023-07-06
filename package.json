@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "html_css_90_ShoTuPalush",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-team-15-htmlcss/",
+    "build": "vite build --base=/html_css_90_ShoTuPalush/",
     "preview": "vite preview"
   },
   "devDependencies": {
